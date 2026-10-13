@@ -3,6 +3,9 @@ Student Database CRUD API
 Project Overview
 
 The Student Database CRUD API is a beginner-friendly backend application developed using Python, FastAPI, and SQLite. It allows users to manage student records through REST API endpoints.
+Live Demo
+.Live API:[https://student-crud-api-gblm.onrender.com]
+.Interactive API Documentation:[https://student-crud-api-gblm.onrender.com/docs]
 
 Technologies Used
 
